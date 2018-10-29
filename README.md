@@ -15,6 +15,9 @@ For the past 5 years, the opiate epidemic has gone out of control. Thousand of p
 ### Mission
 The purpose of this project is too help stop the problem at the roots before it actually becomes a problem. I beleive that the drug itself is not the problem, but the addiction disease lying within the person who is abusing these drugs. If we can tackle that problem before the addiction starts with the drugs, then I think we can help save many lives and help reduce the impact this opoid crisis is having on the United States.
 
+### Prediction Data Analysis
+With the new technology and algorithms that are available now, prediction data analysis can be performed on almost any datasets. After gathering datasets that explore addiction and drug abuse, prediction alaysis will be performed and the results of that analysis will be used to create the painkiller risk assessment tool (PRAT). Once this tool is created, it will be added to the website and anyone can use this tool to help determine whether they are at risk to abuse prescription medication.
+
 ### Steps
 Here the the steps that will be taken during this project that will help achieve this goal.
 1. Create a project proposal explaining how the project will be conducted.
